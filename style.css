@@ -261,6 +261,7 @@ body {
     width:100vw;
     margin-left : -10px;
     display: flex;
+    background-image: linear-gradient(45deg, #f3ec78, #af4261);
 }
 
 #reset{
